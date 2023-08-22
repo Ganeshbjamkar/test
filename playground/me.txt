@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ganesh Balaji Jamkar
-Skills: HTML, CSS, JS, React.js
-Email: ganesh.b.jamkar@gmail.com
-{{/user}}
